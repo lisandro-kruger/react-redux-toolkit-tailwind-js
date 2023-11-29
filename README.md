@@ -1,6 +1,8 @@
 ## Proyecto de Aplicación de Tareas CRUD
 Este proyecto es una aplicación de lista de tareas construida con React y Redux Toolkit. La aplicación permite a los usuarios crear, editar y eliminar tareas.
 
+[Ver la Aplicación de Tareas con Redux Toolkit](https://react-redux-toolkit-tailwind-js.netlify.app/)
+
 ## Estructura del proyecto
 El proyecto consta de cinco componentes principales:
 
